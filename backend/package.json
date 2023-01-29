@@ -1,0 +1,16 @@
+{
+  "name": "sampark",
+  "version": "1.0.0",
+  "description": "P2P Video chat",
+  "main": "index.js",
+  "author": "AyushR1",
+  "license": "ISC",
+  "dependencies": {
+    "awake-heroku": "^1.0.17",
+    "express": "^4.17.1",
+    "socket.io": "^2.4.0",
+    "starwars-name": "^1.0.0",
+    "starwars-names": "^1.6.0",
+    "username-generator": "^1.1.0"
+  }
+}
