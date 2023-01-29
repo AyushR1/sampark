@@ -18,8 +18,6 @@ import minimize from './Icons/minimize.png'
 import ringtone from './Sounds/StarWars.mp3'
 
 
-import call from './components/call';
-
 const ringtoneSound = new Howl({
   src: [ringtone],
   loop: true,
